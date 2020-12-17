@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703524632406",
+    "project_id": "mobile-applications-bdcfa",
+    "storage_bucket": "mobile-applications-bdcfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703524632406:android:02b0cd686a3a55bff588f7",
+        "android_client_info": {
+          "package_name": "com.example.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703524632406-7ndk8v83389mn0d3tuqnkhi8s06f3r6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmGscdzI35FkOGyL7Y9z1mGSPFmXNPcjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703524632406-7ndk8v83389mn0d3tuqnkhi8s06f3r6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
